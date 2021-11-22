@@ -7,10 +7,10 @@ int main(int argc, char *argv[]) {
     double rad,r,theta;
 
     // 1 つめの引数を実数に変換して x に，
-    x = (double)*argv[1];
+    x = atof(argv[1]);
 
     // 2 つめの引数を実数に変換して y に格納する。
-    y = (double)*argv[2];
+    y = atof(argv[2]);
     
     // ベクトルの大きさを求めて r に，
     r = sqrt(x*x + y*y);
