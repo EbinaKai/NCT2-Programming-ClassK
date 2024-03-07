@@ -1,3 +1,4 @@
+// バブルソートプログラム
 #include <stdio.h>
 #define N 5 //ここで N を定義。
 

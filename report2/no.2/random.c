@@ -1,3 +1,5 @@
+// デバッグ用に行列生成用にランダムな値を取得
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

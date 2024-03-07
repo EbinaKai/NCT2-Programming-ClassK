@@ -1,3 +1,4 @@
+// 順列を計算するプログラム
 #include <stdio.h>
 #include <stdlib.h>
 

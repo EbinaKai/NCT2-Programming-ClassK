@@ -1,3 +1,4 @@
+// 極表示から直交座標表示への変換
 #include<stdio.h>
 #include<math.h>
 

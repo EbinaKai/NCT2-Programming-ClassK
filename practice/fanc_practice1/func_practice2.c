@@ -1,3 +1,4 @@
+// 直交座標系を極座標系に変換するプログラム
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
